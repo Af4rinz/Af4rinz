@@ -1,4 +1,3 @@
-### Hi there 👋 I am Afarin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Af4rinz&count_private=true&theme=shades-of-purple&show_icons=true)
 
