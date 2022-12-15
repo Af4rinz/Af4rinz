@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Afarin
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Af4rinz&count_private=true&theme=shades-of-purple&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Af4rinz&theme=shades-of-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Af4rinz/Af4rinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
